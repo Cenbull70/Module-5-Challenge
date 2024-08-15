@@ -9,7 +9,7 @@
 
 <p><h1>Requirements</h1><p>
 </p><h2>Prepare the Data<h2></h2>p>
-The datasets are merged into a single DataFrame.</p>
+</p>The datasets are merged into a single DataFrame.</p>
 </p>The number of mice are shown from the merged DataFrame.</p>
 </p>Each duplicate mice is found based on the Mouse ID and Timepoint.</p>
 </p>A clean DataFrame is created with the dropped duplicate mice.</p>
